@@ -14,7 +14,7 @@ Repository ini berisi laporan dan dokumentasi praktikum mata kuliah **Advanced N
 
 ## 📄 File Laporan
 Laporan lengkap beserta analisis mendalam dan jawaban tugas dapat dilihat pada file dokumen berikut:
-👉 **[Lihat Laporan Praktikum Lengkap (PDF)](./Laporan_Praktikum_Network_Security.pdf)**
+👉 **[Lihat Laporan Praktikum Lengkap (PDF)](./Laporan_Praktikum.pdf)**
 *(Pastikan nama file PDF Anda sesuai dengan link di atas)*
 
 ## 🛠️ Tools yang Digunakan
