@@ -12,11 +12,6 @@ Repository ini berisi laporan dan dokumentasi praktikum mata kuliah **Advanced N
 | **Peran** | Client (Target 2) |
 | **Anggota Tim** | Rizky Adhitya (Attacker), Andi Syam Hasbullah (Server) |
 
-## 📄 File Laporan
-Laporan lengkap beserta analisis mendalam dan jawaban tugas dapat dilihat pada file dokumen berikut:
-👉 **[Lihat Laporan Praktikum Lengkap (PDF)](./Laporan_Praktikum.pdf)**
-*(Pastikan nama file PDF Anda sesuai dengan link di atas)*
-
 ## 🛠️ Tools yang Digunakan
 * **Kali Linux** (OS Attacker, Server, & Client)
 * **Ettercap** (Untuk ARP Poisoning & MITM)
